@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multiple_Choice_Quiz_App</string>
+    <string name="multipleChoiceA">A</string>
+    <string name="multipleChoiceB">B</string>
+    <string name="multipleChoiceC">C</string>
+    <string name="multipleChoiceD">D</string>
+    <string name="multipleChoiceE">E</string>
+
+    <!-- Question Strings -->
+    <string name="question1">Which layout lays out its child components one after the other with an orientation attribute that dictates whether children will be laid vertically or horizontally?[linear layout]</string>
+    <string name="question1_possible_answers">linear layout, constraint layout, relative layout, frame layout, web view layout</string>
+
+
+
+    <string name="question2">s</string>
+</resources>

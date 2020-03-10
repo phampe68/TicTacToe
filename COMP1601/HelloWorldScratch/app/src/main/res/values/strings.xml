@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorldScratch</string>
+    <string name="centerText">Hello Universe!</string>
+</resources>

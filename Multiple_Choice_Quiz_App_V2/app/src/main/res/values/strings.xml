@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Multiple_Choice_Quiz_App_V2</string>
+
+    <!--Multiple Choice Buttons-->
+    <string name="multipleChoiceA">A</string>
+    <string name="multipleChoiceB">B</string>
+    <string name="multipleChoiceC">C</string>
+    <string name="multipleChoiceD">D</string>
+    <string name="multipleChoiceE">E</string>
+    <string name="btnNext">Next</string>
+    <string name="btnPrevious">Previous</string>
+    <string name="btnSubmit">Submit</string>
+    <!--Question Strings-->
+
+
+    <string name="question1">Which layout lays out its child components one after the other with an orientation
+    attribute that dictates whether children will be laid vertically or horizontally?</string>
+
+    <!--Questions are formatted as string arrays.
+        - The first item is the actual question being asked
+        - The second item is the CORRECT answer to the question
+        - All following items are WRONG answers.
+    -->
+    <string-array name="question1">
+        <item>Which layout lays out its child components one after the other with an orientation attribute that dictates whether children will be laid vertically or horizontally?</item>
+        <item>linear layout</item>
+        <item>constraint layout</item>
+        <item>relative layout</item>
+        <item>grid view layout</item>
+        <item>list view layout</item>
+    </string-array>
+
+    <string-array name="question2">
+        <item>Which layout lays out its child components one after the other with an orientation attribute that dictates whether children will be laid vertically or horizontally?</item>
+        <item>linear layout</item>
+        <item>constraint layout</item>
+        <item>relative layout</item>
+        <item>grid view layout</item>
+        <item>list view layout</item>
+    </string-array>
+
+
+
+</resources>

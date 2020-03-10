@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_1_score">PLAYER 1 SCORE:</string>
+    <string name="computer_score">COMPUTER SCORE:</string>
+</resources>

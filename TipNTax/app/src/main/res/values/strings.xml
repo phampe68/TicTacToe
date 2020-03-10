@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TipNTax</string>
+
+    <!-- Main Activity -->
+    <string name="calculate_button_name">Calculate</string>
+    <string name="browser_button_name">Visit</string>
+    <string name="send_email_button_name">Send</string>
+    <string name="amount_prompt">amount</string>
+    <string name="total_label">total</string>
+    <string name="url_prompt">http://go.here.org</string>
+    <string name="email_address_prompt">Louis@cmail.ca</string>
+    <string name="email_message_prompt">message content</string>
+
+
+    <!-- TIP and TAX Calculator Activityy -->
+    <string name="title_activity_tip_calc">Tip Calculator</string>
+    <string name="calculate_activity_button">Calculate</string>
+    <string name="price">Price</string>
+    <string name="percentage">Percent</string>
+    <string name="total">Total</string>
+
+</resources>

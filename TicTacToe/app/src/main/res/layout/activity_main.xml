@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/lblScore1"
+        android:layout_width="199dp"
+        android:layout_height="54dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="184dp"
+        android:text="@string/player_1_score" />
+
+    <TextView
+        android:id="@+id/lblScore2"
+        android:layout_width="229dp"
+        android:layout_height="53dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="108dp"
+        android:layout_marginEnd="156dp"
+        android:text="@string/computer_score" />
+
+    <view
+        android:id="@+id/square9"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="437dp"
+        android:layout_marginEnd="30dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square7"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="436dp"
+        android:layout_marginEnd="285dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square8"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="438dp"
+        android:layout_marginEnd="155dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square6"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="333dp"
+        android:layout_marginEnd="34dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square5"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="329dp"
+        android:layout_marginEnd="154dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square4"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="327dp"
+        android:layout_marginEnd="286dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square3"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="235dp"
+        android:layout_marginEnd="32dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square2"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="229dp"
+        android:layout_marginEnd="155dp"
+        android:text="" />
+
+    <view
+        android:id="@+id/square1"
+        class="com.comp1601.tictactoe.TicTacToeButton"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="225dp"
+        android:layout_marginEnd="283dp"
+        android:text="" />
+
+
+
+</RelativeLayout>

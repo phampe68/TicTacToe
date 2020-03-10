@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">1601 Quiz</string>
+    <string name="yes_button_label">Yes</string>
+    <string name="no_button_label">No</string>
+    <string name="question_text">Do you know Java?</string>
+    <string name="wrong_answer_toast">Wrong!</string>
+    <string name="correct_answer_toast">Correct!</string>
+
+
+    <!-- QUESTION STRINGS -->
+    <string name="question1">Is Java an Object-Oriented Language?[Yes]</string>
+    <string name="question2">Is XML an Executable Language?[No]</string>
+    <string name="question3">Is Android more popular than iOS?[Yes]</string>
+    <string name="question4">Does Java 1.8 support Lambda expressions?[Yes]</string>
+    <string name="question5">Is Android Studio part of the Java JDk?[No]</string>
+</resources>
